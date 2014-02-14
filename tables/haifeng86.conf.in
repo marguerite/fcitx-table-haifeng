@@ -1,0 +1,20 @@
+[CodeTable]
+UniqueName=haifeng86
+_Name=Hai Feng 86
+IconName=haifeng86
+File=haifeng86.mb
+AdjustOrder=AdjustNo
+Priority=10
+AutoSend=-1
+NoneMatchAutoSend=0
+AutoPhrase=True
+AutoPhraseLength=4
+AutoPhrasePhrase=True
+SaveAutoPhrase=3
+ExactMatch=False
+PromptTableCode=False
+Symbol=zzzz
+Enabled=True
+LangCode=zh_CN
+NoMatchDontCommit=True
+impleCodeOrderLevel=2

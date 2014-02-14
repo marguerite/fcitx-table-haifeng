@@ -1,0 +1,12 @@
+[Description]
+Name=五笔86版
+MaxCodes=4
+MaxElement=2
+UsedCodes=abcdefghijklmnopqrstuvwxyz
+WildChar=?
+NumRules=3
+[Rule]
+ca4=p11+p21+p31+n11
+ce2=p11+p12+p21+p22
+ce3=p11+p21+p31+p32
+[Text]

@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+import re
+import sys
+def main():
+  d = set()
+  for l in sys.stdin:
+    word, *codes = [x for x in re.split(r'([a-z]+)', l) if x.strip()]
+    for code in codes:
+      d.add((code, word))
+  for code, word in sorted(d):
+    print(code, word)
+if __name__ == '__main__':
+  main()

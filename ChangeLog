@@ -1,0 +1,7 @@
+2014-02-15 initial public release (0.1.0)
+
+* port to fcitx from its Windows version
+* tables extracted from Haifeng Version 9.5,
+  with its official ImgenU.exe and a Python
+  script
+
